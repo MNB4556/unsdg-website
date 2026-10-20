@@ -1,9 +1,8 @@
-### 1. UN SDG Website
+# UN SDG Website
 **Technology:** HTML, CSS, JavaScript
 
 **To run:**
 ```bash
-cd unsdg-website
 # Open index.html in your browser, or use:
 npx http-server -p 8080
 ```
